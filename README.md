@@ -1,67 +1,25 @@
-🎨 Standalone HTML Tool by Amilgaul (Amilgaul)
-Guild: ULTIMA | Creator: Amilgaul
+<div align="center">
 
-🚀 Quick Start
-Copy the complete index.html code (from previous messages)
+# 🎨 **Where Winds Meet - Colored Text Generator** 
 
-Save as wwm-colors.html
+**✨ Standalone Tool by Amilgaul (INGAME ID)**  
+**🏆 Guild: ULTIMA** | **🔗 Live Demo: [ravisairockey.github.io/Where-Winds-Meet-ColourChat](https://ravisairockey.github.io/Where-Winds-Meet-ColourChat/)**
 
-Double-click to open in any browser ✅
+---
 
-Works offline - no internet needed after first load
+<div align="center">
+<img src="https://img.shields.io/badge/⭐-Production%20Ready-brightgreen?style=for-the-badge&logo=github" alt="Production Ready">
+<img src="https://img.shields.io/badge/🎮-Where%20Winds%20Meet-blueviolet?style=for-the-badge&logo=gamepad">
+<img src="https://img.shields.io/badge/📱-Offline%20Works-limegreen?style=for-the-badge&logo=electron">
+<img src="https://img.shields.io/badge/🎨-18%2B%20Presets-purple?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/✂️-Drag%20to%20Color-orange?style=for-the-badge&logo=hand">
+</div>
 
-✨ Features
-Feature	✅ Status
-Gradient text generator	Working
-Drag-to-color selection	Working
-18+ Color Presets	Popular/Vibrant/Soft
-Custom color picker	Pickr library
-Click-to-remove colors	Swatch hover ✕
-300 char limit counter	Color-coded
-Copy to clipboard	One-click
-Fully responsive	Mobile/Desktop
-Mixed gradients + custom	Professional blending
-🎮 How to Use in Where Winds Meet
-text
-1. Type your message: "FREE ARA ARA"
-2. Pick 2+ colors (Rainbow loads automatically)
-3. Drag across text → Color picker appears
-4. Pick color → See preview update instantly
-5. Click "Copy to Clipboard" 
-6. Paste in WWM chat → Beautiful gradients!
-Pro Tip: Use Vaporwave preset (#ff71ce → #01cdfe → #05ffa1) for maximum style ✨
+---
 
-📱 Supported Browsers
-Chrome 90+
+## 🚀 **⚡ One-Click Setup**
 
-Firefox 88+
-
-Safari 14+
-
-Edge 90+
-
-Mobile: All modern browsers
-
-🎨 Presets Available
-text
-POPULAR:     Rainbow, Sunset, Ocean, Fire, Aurora, Sakura
-VIBRANT:     Cyberpunk, Vaporwave, Electric, Neon, Tropical, Candy  
-SOFT:        Cotton Candy, Peach, Mint, Lavender, Autumn, Forest
-🛠 Creator Info
-text
-INGAME ID: Amilgaul
-GUILD:     ULTIMA
-Purpose:   Make WWM chat beautiful for everyone
-Share this tool with ULTIMA guildmates! 💜
-
-📝 Changelog
-text
-v1.0 - Amilgaul (Feb 2026)
-├─ Complete standalone HTML
-├─ Professional gradient blending  
-├─ Drag-to-color selection
-└─ 18+ presets + color picker
-Made with ❤️ for Where Winds Meet by Amilgaul (ULTIMA)
-
-text
-Copy → Save → Open → Gradient Chat Magic ✨****
+```bash
+1️⃣ Copy complete index.html code 
+2️⃣ Save as `wwm-colors.html`
+3️⃣ 🎉 Double-click → Instant gradients!
