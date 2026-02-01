@@ -26,18 +26,111 @@ No installation required! This tool runs directly in your browser.
 2️⃣ Save it as "wwm-colors.html"
 3️⃣ 🎉 Double-click to open → Instant gradients!
 ✅ 100% Offline capability after first load
-✨ Premium Features🎯 Feature✅ StatusDescription🌈 Gradient GenProduction ReadyCreate stunning multi-color text transitions.✂️ Drag-to-ColorSmooth & PreciseSelect specific parts of text to colorize individually.🎨 18+ PresetsVibrant / SoftOne-click themes like Vaporwave, Cyberpunk, and Fire.🎚️ Pro PickerPickr LibraryProfessional-grade hex color selection.🗑️ Smart RemoveHover ✕ EffectClick to remove specific color stops easily.⚡ Char LimitColor-codedTracks the 300-character limit automatically.📋 1-Click CopyMagicCopies the raw code for immediate pasting.📱 ResponsiveMobile + DesktopWorks on phones, tablets, and PC.🎮 WWM Chat Usage GuideHow to use the generated codes in Where Winds Meet:Code snippetgraph LR
+```
+
+---
+
+## ✨ **Premium Features**
+
+| 🎯 Feature | ✅ Status | Description |
+| :--- | :--- | :--- |
+| **🌈 Gradient Gen** | Production Ready | Create stunning multi-color text transitions. |
+| **✂️ Drag-to-Color** | Smooth & Precise | Select specific parts of text to colorize individually. |
+| **🎨 18+ Presets** | Vibrant / Soft | One-click themes like Vaporwave, Cyberpunk, and Fire. |
+| **🎚️ Pro Picker** | Pickr Library | Professional-grade hex color selection. |
+| **🗑️ Smart Remove** | Hover ✕ Effect | Click to remove specific color stops easily. |
+| **⚡ Char Limit** | Color-coded | Tracks the 300-character limit automatically. |
+| **📋 1-Click Copy** | Magic | Copies the raw code for immediate pasting. |
+| **📱 Responsive** | Mobile + Desktop | Works on phones, tablets, and PC. |
+
+---
+
+## 🎮 **WWM Chat Usage Guide**
+
+How to use the generated codes in *Where Winds Meet*:
+
+```mermaid
+graph LR
     A[💬 Type Message] --> B[🌈 Pick Colors]
     B --> C[✂️ Drag Text]
     C --> D[🎨 Color Picker]
     D --> E[📋 Copy Output]
     E --> F[🎮 Paste in WWM Chat]
     F --> G[✨ Beautiful Gradients!]
-🔥 Pro Tip: Try the Vaporwave preset (#ff71ce → #01cdfe → #05ffa1) for maximum style! ✨🎨 18+ Color Presets<div align="center">🌟 Popular⚡ Vibrant☁️ Soft🌈 Rainbow💿 Cyberpunk🍬 Cotton Candy🌅 Sunset💜 Vaporwave🍑 Peach🌊 Ocean⚡ Electric🍃 Mint🔥 Fire🌈 Neon💜 Lavender🌌 Aurora🏝️ Tropical🍂 Autumn🌸 Sakura🍭 Candy🌲 Forest</div>📊 Technical Stats & SupportUsage Stats💾 File Size: ~25KB (Ultra-light)⚡ Load Time: <100ms📏 Max Length: 300 chars🎨 Colors: Unlimited🌐 Offline: YesBrowser SupportBrowserVersionStatusChrome90+✅ FullFirefox88+✅ FullSafari14+✅ FullEdge90+✅ FullMobileAll✅ Responsive👨‍💻 Creator Credits🎮 INGAME ID: Amilgaul🏆 GUILD: ULTIMA💻 Tool: Perplexity AI Assisted🎨 Design: Professional Dark Theme⚡ Performance: 60fps smooth💌 Share with ULTIMA guildmates! Let’s make WWM chat beautiful! ✨📈 ChangelogPlaintext📅 v1.0.0 - Amilgaul (Feb 2026)
+```
+
+> **🔥 Pro Tip:** Try the **Vaporwave** preset (`#ff71ce` → `#01cdfe` → `#05ffa1`) for maximum style! ✨
+
+---
+
+## 🎨 **18+ Color Presets**
+
+<div align="center">
+
+| 🌟 Popular | ⚡ Vibrant | ☁️ Soft |
+| :--- | :--- | :--- |
+| 🌈 Rainbow | 💿 Cyberpunk | 🍬 Cotton Candy |
+| 🌅 Sunset | 💜 Vaporwave | 🍑 Peach |
+| 🌊 Ocean | ⚡ Electric | 🍃 Mint |
+| 🔥 Fire | 🌈 Neon | 💜 Lavender |
+| 🌌 Aurora | 🏝️ Tropical | 🍂 Autumn |
+| 🌸 Sakura | 🍭 Candy | 🌲 Forest |
+
+</div>
+
+---
+
+## 📊 **Technical Stats & Support**
+
+### **Usage Stats**
+* **💾 File Size:** ~25KB (Ultra-light)
+* **⚡ Load Time:** <100ms
+* **📏 Max Length:** 300 chars
+* **🎨 Colors:** Unlimited
+* **🌐 Offline:** Yes
+
+### **Browser Support**
+| Browser | Version | Status |
+| :--- | :--- | :--- |
+| **Chrome** | 90+ | ✅ Full |
+| **Firefox** | 88+ | ✅ Full |
+| **Safari** | 14+ | ✅ Full |
+| **Edge** | 90+ | ✅ Full |
+| **Mobile** | All | ✅ Responsive |
+
+---
+
+## 👨‍💻 **Creator Credits**
+
+* **🎮 INGAME ID:** Amilgaul
+* **🏆 GUILD:** ULTIMA
+* **💻 Tool:** Perplexity AI Assisted
+* **🎨 Design:** Professional Dark Theme
+* **⚡ Performance:** 60fps smooth
+
+> 💌 Share with **ULTIMA** guildmates! Let’s make WWM chat beautiful! ✨
+
+---
+
+## 📈 **Changelog**
+
+```text
+📅 v1.0.0 - Amilgaul (Feb 2026)
 ├── 🎨 Complete standalone HTML
 ├── 🌈 Professional gradient blending
 ├── ✂️ Drag-to-color selection
 ├── 🎨 18+ presets + color picker
 ├── 📱 Fully responsive design
 └── ⚡ Production optimized
-<div align="center">🎉 Ready to Gradient Your Chat?👉 Copy → Save → Open → Drag → Color → Copy → Paste → ✨ MAGIC!Made with ❤️ for Where Winds Meet by Amilgaul (ULTIMA)</div>
+```
+
+---
+
+<div align="center">
+
+### 🎉 Ready to Gradient Your Chat?
+**👉 Copy → Save → Open → Drag → Color → Copy → Paste → ✨ MAGIC!**
+
+*Made with ❤️ for Where Winds Meet by Amilgaul (ULTIMA)*
+
+</div>
